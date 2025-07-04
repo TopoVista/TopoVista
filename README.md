@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Souradeep Ghosh</h1>
-<h3 align="center">🔹AI/ML Engineer | Full-Stack Developer | FinTech Enthusiast 🔹 Passionate about AI-driven finance, scalable web applications, and high-performance systems</h3>
+<h3 align="center">🔹 Full-Stack Developer | agentic LLM applications 🔹 Passionate about algoirthms, scalable web applications, and high-performance systems</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me : </h3>
 <p align="left">
 <a href="https://linkedin.com/in/souradeepgh608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souradeepgh608" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/bias_hacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/bias_hacker" height="30" width="40" /></a>
