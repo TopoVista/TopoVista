@@ -1,11 +1,76 @@
-<h1 align="center">Hi 👋, I'm Souradeep Ghosh</h1>
-<h3 align="center">🔹 Full-Stack Developer | agentic LLM applications 🔹 Passionate about algoirthms, scalable web applications, and high-performance systems</h3>
+<h1 align="center">Hi, I'm Souradeep 👋</h1>
 
-<h3 align="left">Connect with me : </h3>
-<p align="left">
-<a href="https://linkedin.com/in/souradeepgh608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souradeepgh608" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/bias_hacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/bias_hacker" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Backend+%7C+Full+Stack+%7C+Problem+Solving;Building+Scalable+Systems" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+I’m a **Computer Science Engineering student** and an **aspiring Software Engineer**.  
+I enjoy **problem solving** and building **backend & full-stack systems** that are scalable, maintainable, and practical.
+
+What excites me most:
+- Solving complex engineering problems
+- Designing backend services and APIs
+- Thinking in terms of scalability and system design
+- Working across the stack when it adds real value
+
+---
+
+## 🛠️ Tech Stack
+**Languages**  
+C · C++ · Python · Java · JavaScript  
+
+**Backend & Systems**  
+FastAPI · Spring Boot · Node.js · REST APIs  
+
+**Databases & Infra**  
+PostgreSQL · Redis · Docker · Linux  
+
+**Frontend**  
+React · HTML · CSS  
+
+**Tools**  
+Git · GitHub · VS Code  
+
+---
+
+## 🚀 Featured Projects
+### 🏥 Patient Management System
+Backend-heavy system built using **Spring Boot**, **PostgreSQL**, and **Docker**.  
+Focused on clean architecture, modular services, and real-world backend design.  
+
+
+### 🔍 TrustLens — Reliable RAG System
+Full-stack project with **FastAPI backend**, **FAISS-based retrieval**, and **React frontend**.  
+Built with reliability, performance, and explainability in mind.  
+
+
+### 💬 Multi-Client Chat Server
+TCP/UDP chat server in **C++** using **epoll** for scalable I/O multiplexing.  
+Strong focus on networking fundamentals and concurrency.  
+
+### 🧠 Nano-Pass Compiler 
+End-to-end compiler built as a learning project to strengthen low-level and systems knowledge with 10+ passes of production grade
+
+---
+
+## 🧩 Problem Solving
+- Solved **800+ algorithmic problems**
+- Strong in **data structures, graphs, and dynamic programming**
+- Competitive programming background with interview-oriented thinking
+
+---
+
+
+---
+
+## 📬 Contact
+- **GitHub**: https://github.com/TopoVista  
+- **LinkedIn**: https://linkedin.com/in/souradeepgh608  
+- **Email**: souradeepghosh608@gmail.com  
+
+---
+
+⭐ *Always learning. Always building. Always improving.*
