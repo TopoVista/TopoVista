@@ -1,106 +1,55 @@
 <h1 align="center">Hi, I'm Souradeep 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering;Systems+%7C+Distributed+Systems+%7C+Full+Stack;Compiler+%7C+Backend+%7C+Problem+Solving;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Software+Engineering;Agentic+Systems+%7C+Backend+%7C+Distributed+Systems;LLM+Applications+%7C+System+Design;Building+Scalable+Intelligent+Systems" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **Computer Science undergraduate** focused on **Software Engineering and Systems Development**.
+I’m a **Computer Science undergraduate** focused on **AI systems and backend engineering**.
 
-My interests lie at the intersection of:
+My work centers around:
 
-- Systems programming  
-- Distributed systems  
-- Backend architecture  
-- Compiler design  
-- Scalable full-stack applications  
+- Agentic AI systems and LLM-driven applications  
+- Multi-step reasoning pipelines and workflow orchestration  
+- Backend architecture and distributed systems  
+- Building scalable, production-oriented software  
 
-I enjoy designing systems from first principles — understanding how they work internally, how they scale, and how to structure them cleanly.
+I focus on designing systems that are not only functional, but reliable, explainable, and structured for real-world use.
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### 💻 Languages  
-C · C++ · Python · Java · JavaScript · SQL · Bash  
+C++ · Python · JavaScript · TypeScript · SQL  
+
+### 🤖 AI / GenAI  
+LLM APIs · RAG · Vector Databases · Agentic AI · Workflow Orchestration · LangChain · LangGraph  
 
 ### ⚙️ Backend & Systems  
-FastAPI · Spring Boot · Express.js · REST APIs · JWT Authentication  
+FastAPI · Node.js · Spring Boot · REST APIs · Microservices  
 
 ### 🗄 Databases & Caching  
-PostgreSQL · MySQL · MongoDB · Redis  
+PostgreSQL · MongoDB · Redis  
 
-### 🐳 DevOps & Tools  
-Docker · Git · Linux · LLVM · FAISS · GDB  
+### 🐳 Tools & Infrastructure  
+Docker · Kubernetes · n8n · MCP (Model Context Protocol) · Git · Linux · FAISS  
 
 ### 🌐 Frontend  
-React · HTML · CSS  
+React · Next.js  
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 What I Work On
 
-### 🧠 Nano-Pass Compiler for Custom Language
-Built a 10+ stage compiler pipeline in **C++** transforming  
-AST → Core AST → ANF → LLVM IR (SSA).
-
-- Implemented semantic analysis, symbol tables, and IR transformations  
-- Applied optimizations (constant folding, dead code elimination)  
-- Generated optimized native binaries using LLVM backend  
-- Used Graphviz for AST visualization and debugging  
-
-🔗 https://github.com/TopoVista/nano-pass-compiler  
-
----
-
-### 📦 Dropify — Distributed File Storage Platform
-Distributed file upload and storage system built with **Python, MERN, Redis, and Docker**.
-
-- Implemented chunked uploads and Redis-backed caching  
-- Designed modular REST APIs across Node.js and Python services  
-- Structured role-based authentication and access control  
-- Containerized multi-service architecture for scalable deployment  
-
-🔗 https://github.com/TopoVista/dropify  
-
----
-
-### 💼 Job Application Platform
-Full-stack recruitment platform built using **MERN Stack**.
-
-- Role-based dashboards for recruiters and applicants  
-- REST APIs for job creation, applications, and status tracking  
-- JWT-based authentication with protected routes  
-- Structured backend with modular routing and middleware patterns  
-
-🔗 https://github.com/TopoVista/Job-Application-Portal  
-
----
-
-### 🔍 TrustLens — Hallucination-Aware RAG System
-Retrieval-Augmented Generation system with claim-level verification.
-
-- FAISS-based semantic vector search  
-- NLI-based claim validation pipeline  
-- Explainable React UI with evidence attribution  
-- Optimized embedding retrieval for lower latency  
-
-🔗 https://github.com/TopoVista/trustlens  
-
----
-
-### 🏥 Patient Management System
-Microservices-based healthcare backend using **Spring Boot, PostgreSQL, Docker**.
-
-- Designed layered architecture (controller-service-repository)  
-- Implemented secure REST APIs with validation and error handling  
-- Structured relational schema with transactional integrity  
-- Containerized services for scalable deployment  
-
-🔗 https://github.com/TopoVista/patient-Management-System  
+- Designing **multi-agent systems** for complex task execution  
+- Building **LLM-powered applications** integrated with real data systems  
+- Developing **end-to-end full-stack AI platforms**  
+- Implementing **retrieval, validation, and reasoning pipelines**  
+- Engineering **scalable backend systems and APIs**  
 
 ---
 
@@ -108,16 +57,16 @@ Microservices-based healthcare backend using **Spring Boot, PostgreSQL, Docker**
 
 - 700+ algorithmic problems solved  
 - Strong in Data Structures, Graph Algorithms, and Dynamic Programming  
-- Competitive programming background (Codeforces & LeetCode)  
-- Focused on writing clean, optimal, production-quality solutions  
+- Competitive programming experience (Codeforces & LeetCode)  
+- Focused on writing clean, efficient, and scalable solutions  
 
 ---
 
 ## 📬 Contact
 
-- **GitHub**: https://github.com/TopoVista   
+- **GitHub**: https://github.com/TopoVista  
 - **Email**: souradeepghosh608@gmail.com  
 
 ---
 
-⭐ Always learning. Always building. Always improving.
+⭐ Continuously building, refining, and scaling systems.
