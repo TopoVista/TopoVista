@@ -1,72 +1,144 @@
-<h1 align="center">Hi, I'm Souradeep 👋</h1>
+```md
+<h1 align="center">Souradeep Ghosh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Software+Engineering;Agentic+Systems+%7C+Backend+%7C+Distributed+Systems;LLM+Applications+%7C+System+Design;Building+Scalable+Intelligent+Systems" />
+AI/ML Engineer focused on Agentic AI, LLM Systems, RAG Pipelines, and Production ML Infrastructure.
+</p>
+
+<p align="center">
+  <a href="https://github.com/TopoVista">GitHub</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="https://codeforces.com/profile/">Codeforces</a> •
+  <a href="https://leetcode.com/">LeetCode</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I’m a **Computer Science undergraduate** focused on **AI systems and backend engineering**.
+I build production-oriented AI systems focused on:
 
-My work centers around:
+- Multi-agent orchestration
+- LLM infrastructure and RAG pipelines
+- Backend AI systems and APIs
+- Deep learning deployment pipelines
+- Real-time AI applications
 
-- Agentic AI systems and LLM-driven applications  
-- Multi-step reasoning pipelines and workflow orchestration  
-- Backend architecture and distributed systems  
-- Building scalable, production-oriented software  
-
-I focus on designing systems that are not only functional, but reliable, explainable, and structured for real-world use.
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Languages  
-C++ · Python · JavaScript · TypeScript · SQL  
-
-### 🤖 AI / GenAI  
-LLM APIs · RAG · Vector Databases · Agentic AI · Workflow Orchestration · LangChain · LangGraph  
-
-### ⚙️ Backend & Systems  
-FastAPI · Node.js · Spring Boot · REST APIs · Microservices  
-
-### 🗄 Databases & Caching  
-PostgreSQL · MongoDB · Redis  
-
-### 🐳 Tools & Infrastructure  
-Docker · Kubernetes · n8n · MCP (Model Context Protocol) · Git · Linux · FAISS  
-
-### 🌐 Frontend  
-React · Next.js  
+Currently exploring scalable AI orchestration, evaluation systems, and high-performance backend infrastructure.
 
 ---
 
-## 🧠 What I Work On
+## Tech Stack
 
-- Designing **multi-agent systems** for complex task execution  
-- Building **LLM-powered applications** integrated with real data systems  
-- Developing **end-to-end full-stack AI platforms**  
-- Implementing **retrieval, validation, and reasoning pipelines**  
-- Engineering **scalable backend systems and APIs**  
+### Languages
 
----
-
-## 🧩 Problem Solving
-
-- 700+ algorithmic problems solved  
-- Strong in Data Structures, Graph Algorithms, and Dynamic Programming  
-- Competitive programming experience (Codeforces & LeetCode)  
-- Focused on writing clean, efficient, and scalable solutions  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📬 Contact
+### AI / ML
 
-- **GitHub**: https://github.com/TopoVista  
-- **Email**: souradeepghosh608@gmail.com  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7B61FF?style=for-the-badge)
 
 ---
 
-⭐ Continuously building, refining, and scaling systems.
+### Backend & Infrastructure
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### Frontend
+
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## Featured Projects
+
+### Agentic AI MRI Brain Tumor Classification
+
+Multi-agent computer vision system using CNNs, ResNet50, VGG16, and InceptionV3 with LangGraph orchestration and ONNX Runtime deployment.
+
+**Tech:**  
+PyTorch • FastAPI • LangGraph • ONNX Runtime • Next.js • ChromaDB
+
+---
+
+### Healthcare AI Agent
+
+Intelligent document processing and validation system with structured extraction, evidence retrieval, and automated report generation.
+
+**Tech:**  
+LangGraph • FastAPI • OpenAI API • AWS • Pydantic
+
+---
+
+### TrustLens
+
+Hallucination detection and verified RAG framework combining vector retrieval with NLI-based factual validation.
+
+**Tech:**  
+PyTorch • FAISS • pgvector • FastAPI
+
+---
+
+### NL Query Database Analyst Agent
+
+Agentic analytics platform converting natural language into multi-step SQL workflows with semantic context memory.
+
+**Tech:**  
+LangGraph • PostgreSQL • FastAPI • Redis • Docker
+
+---
+
+## Currently Building
+
+- Multi-agent AI systems
+- Production-grade RAG pipelines
+- AI evaluation and hallucination detection systems
+- Real-time AI dashboards
+- Scalable backend infrastructure for LLM applications
+
+---
+
+## Competitive Programming
+
+- LeetCode Profile: [enet](https://leetcode.com/u/IHihugfgUY/)
+- Codeforces Profile: [ghshsour](https://codeforces.com/profile/ghshsour)
+- 1200+ DSA problems solved
+- Strong in Graphs, Dynamic Programming, and Algorithms
+
+---
+
+## Contact
+
+- GitHub: https://github.com/TopoVista
+- Email: souradeepghosh608@gmail.com
+
+---
+
+<p align="center">
+Building scalable AI systems and production-ready infrastructure.
+</p>
+```
