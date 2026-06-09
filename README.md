@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Souradeep Ghosh</h1>
 
 
@@ -142,4 +142,4 @@ LangGraph • PostgreSQL • FastAPI • Redis • Docker
 <p align="center">
 Building scalable AI systems and production-ready infrastructure.
 </p>
-```
+
