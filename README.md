@@ -1,11 +1,11 @@
 
 <h1 align="center">Souradeep Ghosh</h1>
 
-```html
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Agentic+AI+%7C+LLM+Systems+%7C+RAG+Pipelines;Production+ML+Infrastructure+%7C+Backend+Engineering;Multi-Agent+Systems+%7C+FastAPI+%7C+AWS;Building+Scalable+Intelligent+Systems" />
 </p>
-```
+
 
 
 <p align="center">
