@@ -14,9 +14,9 @@ AI/ML Engineer focused on Agentic AI, LLM Systems, RAG Pipelines, and Production
 
 <p align="center">
   <a href="https://github.com/TopoVista">GitHub</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="https://codeforces.com/profile/">Codeforces</a> •
-  <a href="https://leetcode.com/">LeetCode</a>
+  <a href="https://www.linkedin.com/in/souradeepgh608/">LinkedIn</a> •
+  <a href="https://codeforces.com/profile/ghshsour">Codeforces</a> •
+  <a href="https://leetcode.com/u/IHihugfgUY/">LeetCode</a>
 </p>
 
 ---
