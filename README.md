@@ -1,142 +1,148 @@
 <div align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Souradeep Ghosh — Software Engineering, Applied AI, Backend Systems and Developer Tooling" />
+  <img src="./assets/profile-hero.svg" width="100%" alt="Souradeep Ghosh | Software Engineering, RAG, Context Engineering, LLM Fine-Tuning and DSA" />
 
   <br />
 
-  **Software Engineer · Applied AI & LLM Systems · Backend / Platform Engineering**
+  **Software Engineer · AI Engineer · Backend Systems**
 
-  I build end-to-end software and AI systems with an emphasis on **reliability, explainability, security, and thoughtful product design**.
+  Building **retrieval-driven AI products, context-aware agents, and reliable software systems**.
 
   <p>
-    <a href="mailto:souradeepghosh608@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Souradeep" /></a>
-    <a href="https://www.linkedin.com/in/souradeepgh608/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-    <a href="https://github.com/TopoVista?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Projects-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects" /></a>
+    <a href="mailto:souradeepghosh608@gmail.com"><img src="https://img.shields.io/badge/Email-0E8B81?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Souradeep" /></a>
+    <a href="https://www.linkedin.com/in/souradeepgh608/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://codeforces.com/profile/ghshsour"><img src="https://img.shields.io/badge/Codeforces-192A56?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile" /></a>
+    <a href="https://leetcode.com/u/IHihugfgUY/"><img src="https://img.shields.io/badge/LeetCode-262626?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode profile" /></a>
   </p>
 
-  <sub>India · B.Tech, Class of 2027 · Interested in software engineering, AI engineering, and backend/platform opportunities</sub>
+  <sub>India · B.Tech, Class of 2027 · Interested in SWE, AI Engineering, and Backend / Platform roles</sub>
 </div>
 
 ---
 
-## A little about me
+## Hello, I'm Souradeep
 
-I'm **Souradeep**, a software engineer and final-year undergraduate who enjoys turning complex technical ideas into useful, dependable products.
+I enjoy building software that makes AI **useful beyond a prototype**. My work spans agentic workflows, retrieval-augmented generation (RAG), context engineering, model experimentation, full-stack product development, and backend infrastructure.
 
-My work sits at the intersection of **software engineering, applied machine learning, and systems design**. I build full-stack applications, agentic workflows, retrieval and evaluation systems, and the backend infrastructure that makes them practical to operate.
+I care about more than getting an LLM to respond: **retrieval quality, effective context construction, predictable tool use, reliable APIs, testable behavior, and clear evidence behind outputs**.
 
-What interests me most is the engineering beyond a model call: **how systems handle uncertainty, enforce boundaries, recover from failure, preserve evidence, and remain understandable to the people using them**.
+| What I focus on | How I approach it |
+| :--- | :--- |
+| **RAG & context engineering** | Retrieval, evidence grounding, context selection, memory, structured prompts, and evaluation. |
+| **LLMs & fine-tuning** | Transformer fundamentals, Qwen / QLoRA studies, model adaptation, data preparation, and inference trade-offs. |
+| **Software engineering** | Python / C++, API design, databases, full-stack development, testing, deployment, and system design. |
+| **DSA & problem solving** | Graphs, dynamic programming, algorithms, and competitive-programming practice. |
 
-- **Engineering:** APIs, databases, distributed-system fundamentals, testing, deployment, and developer experience.
-- **Applied AI:** agent orchestration, retrieval-augmented generation, tool use, model evaluation, and grounded outputs.
-- **Problem solving:** algorithms, data structures, and competitive programming.
+## Selected projects
 
-## Selected engineering work
+### 01 — [Base64 Ops](https://github.com/TopoVista/Base64-Ops) · Context-aware AI engineering
 
-These projects best represent how I approach engineering problems — from architecture and implementation to safety, usability, and deployment.
+**An evidence-first AI developer tool for investigating repository and CI failures and preparing controlled fixes.**
 
-### 01 / Base64 Ops — Evidence-first AI developer tooling
+Built around an explicit context and safety model: reconstruct the failure at the correct revision, gather evidence, generate a constrained candidate patch, validate it, and obtain **exact human approval** before delivery.
 
-**An AI-assisted engineering workflow for investigating CI failures and preparing controlled fixes.**
+**Highlights:** Context construction from code and CI signals · Revision-aware investigation · LangGraph orchestration · Sandboxed validation · Deterministic risk checks · Auditable approvals
 
-Instead of giving an agent unrestricted access to modify a repository, Base64 Ops reconstructs the relevant failure state, gathers traceable evidence, proposes a bounded patch, validates it, and requires **explicit approval tied to the exact change** before delivery.
+**Stack:** Python, FastAPI, LangGraph, React, Docker, GitHub Actions
 
-- Repository and CI investigation with revision-aware evidence.
-- Constrained patch generation, sandbox validation, and deterministic risk checks.
-- Human-in-the-loop approvals, investigation replay, and operational memory.
-- Built around secure tool use, auditability, and clearly scoped automation.
-
-**Engineering focus:** Python · FastAPI · LangGraph · React · GitHub Actions · Docker
-
-[**Source code & architecture**](https://github.com/TopoVista/Base64-Ops) · [**Live application**](https://base64-ops.vercel.app/) · [**Technical walkthrough**](https://github.com/TopoVista/Base64-Ops/blob/main/docs/DEMO_SCRIPT.md)
+[**Live application**](https://base64-ops.vercel.app/) · [**Architecture**](https://github.com/TopoVista/Base64-Ops/blob/main/docs/ARCHITECTURE.md) · [**Source**](https://github.com/TopoVista/Base64-Ops)
 
 <a href="https://github.com/TopoVista/Base64-Ops">
-  <img src="https://raw.githubusercontent.com/TopoVista/Base64-Ops/main/docs/assets/screenshots/safe-repair-demo.png" width="100%" alt="Base64 Ops safe-repair investigation demo screenshot" />
+  <img src="https://raw.githubusercontent.com/TopoVista/Base64-Ops/main/docs/assets/screenshots/safe-repair-demo.png" width="100%" alt="Base64 Ops — evidence-first CI investigation and safe repair workflow" />
 </a>
 
-### 02 / Decision Intelligence Agent — From questions to analytical workflows
+### 02 — [TrustLens](https://github.com/TopoVista/trustlens) · RAG & evidence-grounded AI
 
-**A full-stack analytics application that translates business questions into executable, multi-step investigations.**
+**A document intelligence workspace where answers are accompanied by the evidence needed to review them.**
 
-The system combines intent classification, task planning, SQL generation and correction, database execution, statistical analysis, anomaly detection, and readable insight summaries. It also provides visual dashboards and dataset-oriented workflows.
+Designed retrieval and verification workflows around source material, extracted claims, entities, contradictions, and unresolved questions — so a confident-sounding answer is not mistaken for verified evidence.
 
-- Designed an agent workflow that coordinates reasoning with real database operations.
-- Built a **Next.js + FastAPI** application with schema exploration and analysis history.
-- Separated deterministic analytics and chart construction from optional LLM-powered tasks.
-- Added deployment-oriented database configuration and backend API boundaries.
+**Highlights:** Evidence-grounded retrieval · Contextual question answering · Claim-level provenance · Verification workflows · Streaming progress · Workspace isolation
 
-**Engineering focus:** Python · FastAPI · Next.js · PostgreSQL · SQL · Agentic workflows
+**Stack:** Python, FastAPI, React, PostgreSQL, retrieval, LLM workflows
 
-[**Explore repository**](https://github.com/TopoVista/Ask-Database-Analyst-Agent) · [**Architecture**](https://github.com/TopoVista/Ask-Database-Analyst-Agent/blob/main/docs/ARCHITECTURE.md)
+[**Source**](https://github.com/TopoVista/trustlens) · [**Architecture**](https://github.com/TopoVista/trustlens/blob/main/docs/architecture.md) · [**Verification design**](https://github.com/TopoVista/trustlens/blob/main/docs/INTELLIGENCE_GRAPH.md)
 
-### 03 / TrustLens — Evidence-grounded document intelligence
+### 03 — [Decision Intelligence Agent](https://github.com/TopoVista/Ask-Database-Analyst-Agent) · Agentic AI & full-stack SWE
 
-**A document intelligence workspace designed to make AI-generated answers reviewable.**
+**A full-stack analytics system that converts natural-language questions into multi-step database investigations.**
 
-TrustLens ingests source material, extracts claims and entities, and presents answers together with the supporting evidence, contradictions, and unresolved questions — rather than asking users to trust a fluent response.
+Coordinates intent detection, planning, SQL generation and correction, database operations, statistical analysis, and dashboard creation. Separates deterministic analytical steps from optional LLM-powered reasoning.
 
-- Built evidence-oriented retrieval, claim tracing, and verification workflows.
-- Designed workspace-scoped access, structured answer contracts, and streaming feedback.
-- Incorporated evidence health, timeline views, and provenance-oriented intelligence graphs.
-- Explored safe fallbacks and the limits of automated factual verification.
+**Highlights:** Agent workflows · Schema-aware SQL · Analytical execution · API boundaries · Persistent application state · Interactive Next.js UI
 
-**Engineering focus:** FastAPI · React · PostgreSQL · LLM evaluation · Retrieval · Provenance
+**Stack:** Python, FastAPI, Next.js, PostgreSQL, SQL
 
-[**Explore repository**](https://github.com/TopoVista/trustlens) · [**Architecture & implementation**](https://github.com/TopoVista/trustlens/blob/main/docs/architecture.md)
+[**Source**](https://github.com/TopoVista/Ask-Database-Analyst-Agent) · [**Architecture**](https://github.com/TopoVista/Ask-Database-Analyst-Agent/blob/main/docs/ARCHITECTURE.md)
 
-### More things I've built
+### 04 — [Qwen3 Fine-Tuning Notes](https://github.com/TopoVista/fine-tuning-qwen3-) · LLM model adaptation
 
-| Project | What it explores |
-| :--- | :--- |
-| [**Brain MRI Classification & Analysis**](https://github.com/TopoVista/MRI-Brain-Tumor-Detection-Agentic-AI) | Full-stack computer vision workflow with multiple model predictions, ONNX inference, and optional report-generation stages. Research/decision-support software, not a diagnostic system. |
-| [**Healthcare AI Agent**](https://github.com/TopoVista/healthcare-agentic-AI) | LangGraph-based question answering with PubMed-first retrieval, source attribution, and safety-oriented responses. |
-| [**Nano-Pass Compiler**](https://github.com/TopoVista/nano-pass-compiler) | Compiler construction experiments in C++, including code-generation artifacts and staged implementation work. |
-| [**Agentic AI Design Patterns**](https://github.com/TopoVista/agentic-ai-design-patterns) | Implementations and explanations of agent patterns including planning, routing, human approval, memory, recovery, and evaluation. |
+**Technical learning notes on the Qwen3-32B QLoRA fine-tuning pipeline.**
+
+Studied quantized model loading, LoRA adapters, tokenization, data formatting, supervised fine-tuning, training loops, and the difference between training-time and inference-time optimization.
+
+[**Fine-tuning report**](https://github.com/TopoVista/fine-tuning-qwen3-/blob/main/report.md) · [**Learning repository**](https://github.com/TopoVista/fine-tuning-qwen3-)
+
+*This repository documents a tutorial-based learning exercise; it is not presented as an independently verified production fine-tuning deployment.*
+
+## Competitive programming & DSA
+
+I consistently practice algorithmic problem-solving, with particular interest in **graphs, dynamic programming, recursion, data structures, and complexity analysis**.
+
+<p>
+  <a href="https://codeforces.com/profile/ghshsour"><img src="https://img.shields.io/badge/Codeforces-ghshsour-192A56?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces: ghshsour" /></a>
+  <a href="https://leetcode.com/u/IHihugfgUY/"><img src="https://img.shields.io/badge/LeetCode-Profile-262626?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode profile" /></a>
+  <a href="https://github.com/TopoVista/DSA"><img src="https://img.shields.io/badge/GitHub-DSA%20Practice-24292F?style=flat-square&logo=github&logoColor=white" alt="DSA practice repository" /></a>
+</p>
+
+**Also exploring:** [Nano-Pass Compiler (C++)](https://github.com/TopoVista/nano-pass-compiler) · [Algorithm practice](https://github.com/TopoVista/GOOD-LEETCODE-QUESTIONS)
 
 ---
 
-## Industry experience
+## Internship experience
 
-I've contributed to engineering work across **AI-focused product teams and internships**, spanning research prototypes and application development.
+I've worked with AI-focused teams on engineering problems across **LLM workflows, machine-learning experimentation, data processing, and full-stack product development**.
 
-- **Applied AI & ML engineering:** Worked with LLM workflows, model experimentation, structured document processing, extraction pipelines, and evaluation.
-- **Backend & full-stack development:** Contributed to APIs, product interfaces, data-processing workflows, and integrations between AI components and applications.
-- **Domain-specific AI products:** Gained experience designing practical workflows where data quality, correctness, usability, and traceability matter.
+- **Applied AI:** Contributed to agentic workflows, retrieval-based applications, structured document extraction, and model-evaluation activities.
+- **Model engineering:** Explored model adaptation, preprocessing, training and inference workflows, and GPU-oriented experimentation.
+- **Software engineering:** Worked across backend services, frontend interfaces, integrations, and data-centric application workflows.
 
-*Descriptions are intentionally high-level to respect the confidentiality of internal products and implementations.*
+*Descriptions are intentionally high-level to respect internal product and implementation confidentiality.*
 
-## Tools I work with
+## Engineering toolkit
 
-| Area | Technologies |
+| Focus | Tools and technologies |
 | :--- | :--- |
-| **Languages** | Python, C++, TypeScript, JavaScript, SQL, Java |
-| **Backend & data** | FastAPI, Node.js, PostgreSQL, Redis, REST APIs |
-| **AI / ML** | PyTorch, LangGraph, LangChain, ONNX Runtime, RAG, vector retrieval |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Engineering & delivery** | Git, Docker, GitHub Actions, AWS, automated testing |
+| **Programming** | Python · C++ · TypeScript · JavaScript · SQL · Java |
+| **LLM / RAG / ML** | LangGraph · LangChain · PyTorch · Retrieval pipelines · ONNX Runtime · Qwen / QLoRA study |
+| **Backend & data** | FastAPI · Node.js · PostgreSQL · Redis · REST APIs |
+| **Frontend** | React · Next.js · Tailwind CSS |
+| **Infrastructure & workflow** | Docker · GitHub Actions · AWS · Git · Automated testing |
 
-I care more about **choosing the right tools and understanding their trade-offs** than collecting frameworks.
+## More work
 
-## What I'm learning and building next
+- [**Brain MRI Classification & Analysis**](https://github.com/TopoVista/MRI-Brain-Tumor-Detection-Agentic-AI) — Multi-model computer vision and ONNX-based inference in a full-stack decision-support application; not a clinical diagnostic tool.
+- [**Healthcare AI Agent**](https://github.com/TopoVista/healthcare-agentic-AI) — LangGraph workflow with PubMed-first retrieval, source attribution, and safety-oriented answers.
+- [**Agentic AI Design Patterns**](https://github.com/TopoVista/agentic-ai-design-patterns) — Implementations and written explorations of planning, retrieval, memory, guardrails, evaluation, and agent orchestration.
 
-I'm deepening my understanding of **distributed systems, databases, concurrency, system design, compiler construction, and reliable AI infrastructure**. I'm especially interested in how evaluation, permissions, observability, and human oversight fit into real AI-powered products.
+## Currently exploring
 
-Outside product work, I practice **data structures and algorithms** through competitive programming.
+**Advanced RAG and context engineering:** retrieval relevance, grounded generation, context compression and selection, agent memory, and evaluation.
 
-[**Codeforces**](https://codeforces.com/profile/ghshsour) · [**LeetCode**](https://leetcode.com/u/IHihugfgUY/) · [**DSA repository**](https://github.com/TopoVista/DSA)
+**Fine-tuning & inference engineering:** PEFT / LoRA, quantization, dataset design, model behavior, latency, and deployment constraints.
+
+**Core SWE:** distributed systems, databases, concurrency, compilers, system design, and algorithmic problem solving.
 
 ---
 
 <div align="center">
 
-### Let's build something meaningful.
+### Interested in working together?
 
-I'm interested in opportunities where I can solve challenging engineering problems, learn from strong teams, and ship software that people actually rely on.
+I'm excited by teams solving challenging problems in **software engineering, AI infrastructure, developer tools, and applied machine learning**.
 
-**Recruiter, hiring manager, or engineer?** The easiest way to reach me is via email or LinkedIn. I'd be glad to discuss my projects, engineering decisions, and opportunities to contribute.
+For internships, early-career opportunities, project discussions, or engineering conversations, feel free to reach out.
 
-<a href="mailto:souradeepghosh608@gmail.com"><img src="https://img.shields.io/badge/souradeepghosh608%40gmail.com-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email souradeepghosh608@gmail.com" /></a>
+<a href="mailto:souradeepghosh608@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-souradeepghosh608%40gmail.com-0E8B81?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Souradeep Ghosh" /></a>
 <a href="https://www.linkedin.com/in/souradeepgh608/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-
-<sub>Thanks for stopping by — you can explore my pinned repositories for more implementation details.</sub>
 
 </div>
