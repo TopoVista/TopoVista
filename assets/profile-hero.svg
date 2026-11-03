@@ -1,35 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
-<title id="title">Souradeep Ghosh — Software Engineering, Applied AI, Backend Systems</title>
-<desc id="desc">A dark professional banner with a schematic illustrating evidence, validation, and delivery.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="430" viewBox="0 0 1400 430" role="img" aria-labelledby="banner-title banner-desc">
+<title id="banner-title">Souradeep Ghosh — Software and AI Engineer</title>
+<desc id="banner-desc">Editorial-style dark profile banner showcasing RAG, context engineering, model fine-tuning, software engineering and algorithms.</desc>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1222"/><stop offset="1" stop-color="#11263b"/></linearGradient>
- <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#5eead4"/></linearGradient>
- <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M 30 0 L 0 0 0 30" fill="none" stroke="#9ac5e2" stroke-opacity=".07"/></pattern>
- <filter id="glow"><feGaussianBlur stdDeviation="34"/></filter>
+  <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1020"/><stop offset="0.56" stop-color="#0C1426"/><stop offset="1" stop-color="#101D34"/></linearGradient>
+  <linearGradient id="aqua" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#B4F8DA"/><stop offset="1" stop-color="#60CFD8"/></linearGradient>
+  <radialGradient id="bloom"><stop offset="0" stop-color="#35A8B8" stop-opacity=".15"/><stop offset="1" stop-color="#35A8B8" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="25" height="25" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#9CB7CC" opacity=".16"/></pattern>
+  <clipPath id="clip"><rect x="1" y="1" width="1398" height="428" rx="22"/></clipPath>
 </defs>
-<rect width="1200" height="330" rx="22" fill="url(#bg)"/>
-<rect width="1200" height="330" rx="22" fill="url(#grid)"/>
-<circle cx="1060" cy="55" r="100" fill="#0ea5e9" opacity=".12" filter="url(#glow)"/>
-<circle cx="750" cy="310" r="90" fill="#14b8a6" opacity=".09" filter="url(#glow)"/>
-<rect x="52" y="48" width="197" height="29" rx="14.5" fill="#103b4e" stroke="#27768a" stroke-width="1"/>
-<circle cx="68" cy="62.5" r="4" fill="#5eead4"/>
-<text x="82" y="67" fill="#bce4ed" font-size="12" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="2">ENGINEER / BUILDER</text>
-<text x="50" y="155" fill="#f8fbff" font-size="57" font-weight="700" font-family="Segoe UI, Arial, Helvetica, sans-serif" letter-spacing="-.5">Souradeep Ghosh</text>
-<rect x="52" y="176" width="72" height="4" rx="2" fill="url(#accent)"/>
-<text x="52" y="220" fill="#93c5e4" font-size="21" font-family="Segoe UI, Arial, Helvetica, sans-serif">Software Engineering  ·  Applied AI</text>
-<text x="52" y="251" fill="#93c5e4" font-size="21" font-family="Segoe UI, Arial, Helvetica, sans-serif">Backend Systems  ·  Developer Tooling</text>
-<text x="52" y="294" fill="#b9c7d7" font-size="14" font-family="Segoe UI, Arial, Helvetica, sans-serif" letter-spacing="1">DESIGN. BUILD. TEST. IMPROVE.</text>
-<g transform="translate(777 56)">
- <rect width="367" height="218" rx="16" fill="#0d1d30" stroke="#31506d" stroke-width="1.3"/>
- <rect width="367" height="37" rx="16" fill="#172d43"/>
- <rect y="20" width="367" height="17" fill="#172d43"/>
- <circle cx="22" cy="19" r="5" fill="#f69d83"/><circle cx="41" cy="19" r="5" fill="#f4cc71"/><circle cx="60" cy="19" r="5" fill="#5ddac2"/>
- <text x="89" y="24" fill="#bdd3e8" font-size="13" font-family="monospace">engineering-workflow</text>
- <path d="M183 72 V188" stroke="#4b7287" stroke-width="2" stroke-dasharray="3 8"/>
- <g font-family="Segoe UI, Arial, Helvetica, sans-serif">
- <rect x="38" y="59" width="291" height="36" rx="8" fill="#183b52" stroke="#36708a"/><circle cx="59" cy="77" r="6" fill="#38bdf8"/><text x="78" y="82" fill="#edf7fd" font-size="15" font-weight="600">Understand the evidence</text>
- <rect x="38" y="112" width="291" height="36" rx="8" fill="#164047" stroke="#2b7e7b"/><circle cx="59" cy="130" r="6" fill="#5eead4"/><text x="78" y="135" fill="#edf7fd" font-size="15" font-weight="600">Validate the solution</text>
- <rect x="38" y="165" width="291" height="36" rx="8" fill="#183b52" stroke="#36708a"/><circle cx="59" cy="183" r="6" fill="#38bdf8"/><text x="78" y="188" fill="#edf7fd" font-size="15" font-weight="600">Ship with confidence</text>
- </g>
+<rect width="1400" height="430" rx="22" fill="url(#base)"/>
+<g clip-path="url(#clip)">
+  <circle cx="1160" cy="190" r="360" fill="url(#bloom)"/>
+  <path d="M855 -20 L855 455" stroke="#4D6A85" stroke-opacity=".35"/>
+  <rect x="856" y="0" width="544" height="430" fill="url(#dots)" opacity=".7"/>
+  <path d="M860 380 Q1190 440 1430 270" fill="none" stroke="#5F84A5" stroke-opacity=".14" stroke-width="2"/>
+  <path d="M920 460 Q1220 370 1400 90" fill="none" stroke="#5F84A5" stroke-opacity=".11" stroke-width="2"/>
+</g>
+<rect x="1" y="1" width="1398" height="428" rx="22" fill="none" stroke="#39506C" stroke-opacity=".75" stroke-width="2"/>
+<rect x="66" y="49" width="9" height="9" rx="2" fill="#94EACB"/>
+<text x="91" y="59" font-family="Arial, Helvetica, sans-serif" fill="#9ED5DB" font-size="15" font-weight="700" letter-spacing="3">SOFTWARE ENGINEERING  /  APPLIED AI</text>
+<text x="62" y="166" font-family="Arial, Helvetica, sans-serif" fill="#F6F8FC" font-size="83" font-weight="700" letter-spacing="-4">Souradeep</text>
+<text x="62" y="253" font-family="Arial, Helvetica, sans-serif" fill="#F6F8FC" font-size="83" font-weight="700" letter-spacing="-4">Ghosh<tspan fill="#95EDD1">.</tspan></text>
+<rect x="66" y="284" width="55" height="4" rx="2" fill="url(#aqua)"/>
+<text x="66" y="329" font-family="Arial, Helvetica, sans-serif" fill="#DCE7F6" font-size="20.5" font-weight="600" letter-spacing=".1">RAG  ·  CONTEXT ENGINEERING  ·  FINE-TUNING</text>
+<text x="66" y="365" font-family="Arial, Helvetica, sans-serif" fill="#A4B8D0" font-size="19.5" font-weight="500" letter-spacing=".2">BACKEND SYSTEMS  ·  DSA  ·  PROBLEM SOLVING</text>
+<text x="66" y="407" font-family="Arial, Helvetica, sans-serif" fill="#718CA8" font-size="13" letter-spacing="2.5">DESIGN THE CONTEXT.  VERIFY THE OUTPUT.  SHIP THE SYSTEM.</text>
+<g font-family="Arial, Helvetica, sans-serif">
+  <rect x="902" y="47" width="440" height="336" rx="18" fill="#111C30" stroke="#3B526B" stroke-opacity=".85" stroke-width="1.5"/>
+  <text x="929" y="79" fill="#B7CBE2" font-size="13" font-weight="700" letter-spacing="2.4">THE INTELLIGENCE PIPELINE</text>
+  <path d="M931 92 H1313" stroke="#3D526A" stroke-width="1"/>
+  <path d="M956 125 V341" fill="none" stroke="#4D677C" stroke-width="2" stroke-dasharray="4 7"/>
+  <rect x="931" y="109" width="382" height="52" rx="10" fill="#1A3040" stroke="#2C6174"/>
+  <rect x="931" y="176" width="382" height="52" rx="10" fill="#182739" stroke="#344962"/>
+  <rect x="931" y="243" width="382" height="52" rx="10" fill="#1A3040" stroke="#2C6174"/>
+  <rect x="931" y="310" width="382" height="52" rx="10" fill="#182739" stroke="#344962"/>
+  <circle cx="956" cy="135" r="13" fill="#95EDD1"/><circle cx="956" cy="202" r="13" fill="#95EDD1"/><circle cx="956" cy="269" r="13" fill="#95EDD1"/><circle cx="956" cy="336" r="13" fill="#95EDD1"/>
+  <text x="956" y="140" fill="#123039" font-size="13" font-weight="700" text-anchor="middle">1</text>
+  <text x="956" y="207" fill="#123039" font-size="13" font-weight="700" text-anchor="middle">2</text>
+  <text x="956" y="274" fill="#123039" font-size="13" font-weight="700" text-anchor="middle">3</text>
+  <text x="956" y="341" fill="#123039" font-size="13" font-weight="700" text-anchor="middle">4</text>
+  <text x="989" y="133" fill="#F2F6FC" font-size="18" font-weight="700">Retrieve</text>
+  <text x="989" y="152" fill="#8FAFC4" font-size="12.5">Relevant evidence</text>
+  <text x="989" y="200" fill="#F2F6FC" font-size="18" font-weight="700">Engineer context</text>
+  <text x="989" y="219" fill="#8FAFC4" font-size="12.5">Precise model inputs</text>
+  <text x="989" y="267" fill="#F2F6FC" font-size="18" font-weight="700">Adapt &amp; reason</text>
+  <text x="989" y="286" fill="#8FAFC4" font-size="12.5">Fine-tuned intelligence</text>
+  <text x="989" y="334" fill="#F2F6FC" font-size="18" font-weight="700">Evaluate &amp; ship</text>
+  <text x="989" y="353" fill="#8FAFC4" font-size="12.5">Reliable software systems</text>
+  <path d="M1281 130 l7 5 -7 5 M1281 197 l7 5 -7 5 M1281 264 l7 5 -7 5 M1281 331 l7 5 -7 5" fill="none" stroke="#77CDBB" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 </svg>
