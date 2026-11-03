@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Souradeep Ghosh — Software Engineering, Applied AI, Backend Systems</title>
+<desc id="desc">A dark professional banner with a schematic illustrating evidence, validation, and delivery.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1222"/><stop offset="1" stop-color="#11263b"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#5eead4"/></linearGradient>
+ <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M 30 0 L 0 0 0 30" fill="none" stroke="#9ac5e2" stroke-opacity=".07"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="34"/></filter>
+</defs>
+<rect width="1200" height="330" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="330" rx="22" fill="url(#grid)"/>
+<circle cx="1060" cy="55" r="100" fill="#0ea5e9" opacity=".12" filter="url(#glow)"/>
+<circle cx="750" cy="310" r="90" fill="#14b8a6" opacity=".09" filter="url(#glow)"/>
+<rect x="52" y="48" width="197" height="29" rx="14.5" fill="#103b4e" stroke="#27768a" stroke-width="1"/>
+<circle cx="68" cy="62.5" r="4" fill="#5eead4"/>
+<text x="82" y="67" fill="#bce4ed" font-size="12" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="2">ENGINEER / BUILDER</text>
+<text x="50" y="155" fill="#f8fbff" font-size="57" font-weight="700" font-family="Segoe UI, Arial, Helvetica, sans-serif" letter-spacing="-.5">Souradeep Ghosh</text>
+<rect x="52" y="176" width="72" height="4" rx="2" fill="url(#accent)"/>
+<text x="52" y="220" fill="#93c5e4" font-size="21" font-family="Segoe UI, Arial, Helvetica, sans-serif">Software Engineering  ·  Applied AI</text>
+<text x="52" y="251" fill="#93c5e4" font-size="21" font-family="Segoe UI, Arial, Helvetica, sans-serif">Backend Systems  ·  Developer Tooling</text>
+<text x="52" y="294" fill="#b9c7d7" font-size="14" font-family="Segoe UI, Arial, Helvetica, sans-serif" letter-spacing="1">DESIGN. BUILD. TEST. IMPROVE.</text>
+<g transform="translate(777 56)">
+ <rect width="367" height="218" rx="16" fill="#0d1d30" stroke="#31506d" stroke-width="1.3"/>
+ <rect width="367" height="37" rx="16" fill="#172d43"/>
+ <rect y="20" width="367" height="17" fill="#172d43"/>
+ <circle cx="22" cy="19" r="5" fill="#f69d83"/><circle cx="41" cy="19" r="5" fill="#f4cc71"/><circle cx="60" cy="19" r="5" fill="#5ddac2"/>
+ <text x="89" y="24" fill="#bdd3e8" font-size="13" font-family="monospace">engineering-workflow</text>
+ <path d="M183 72 V188" stroke="#4b7287" stroke-width="2" stroke-dasharray="3 8"/>
+ <g font-family="Segoe UI, Arial, Helvetica, sans-serif">
+ <rect x="38" y="59" width="291" height="36" rx="8" fill="#183b52" stroke="#36708a"/><circle cx="59" cy="77" r="6" fill="#38bdf8"/><text x="78" y="82" fill="#edf7fd" font-size="15" font-weight="600">Understand the evidence</text>
+ <rect x="38" y="112" width="291" height="36" rx="8" fill="#164047" stroke="#2b7e7b"/><circle cx="59" cy="130" r="6" fill="#5eead4"/><text x="78" y="135" fill="#edf7fd" font-size="15" font-weight="600">Validate the solution</text>
+ <rect x="38" y="165" width="291" height="36" rx="8" fill="#183b52" stroke="#36708a"/><circle cx="59" cy="183" r="6" fill="#38bdf8"/><text x="78" y="188" fill="#edf7fd" font-size="15" font-weight="600">Ship with confidence</text>
+ </g>
+</g>
+</svg>
